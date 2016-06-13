@@ -14,6 +14,7 @@
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
+        <entry key="$USER_HOME$/Workspace/frbl/ICPE_machine_learning_workgroup/venv/bin/python" value="false" />
         <entry key="$USER_HOME$/Workspace/frbl/tensorflow/TensorFlowVenv/bin/python" value="false" />
       </map>
     </option>
