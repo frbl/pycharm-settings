@@ -12,6 +12,10 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -28,4 +32,5 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.UpdateProject" />
 </keymap>
